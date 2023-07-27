@@ -2,6 +2,6 @@
 - 👀 I’m interested in devleoping critical thinking skills
 - 🌱 I’m currently learning Java, JS(react), SQL
 - 💞️ I’m looking to collaborate on new Java Projects 
-- 🙏 please by patient while I upload my code! I am working backwards through my year 😄
+
 
 
